@@ -29,9 +29,9 @@ name.markdown(
     """,
     unsafe_allow_html=True,
 )
-name.markdown("<h6 class='name'>Eduardus Tjitrahardja</h6>", unsafe_allow_html=True)
-name.markdown("<p class='sub'>TETRIS II: Data Analytics</p>", unsafe_allow_html=True)
-name.markdown("<p class='date'>1 Agustus 2022</p>", unsafe_allow_html=True)
+name.markdown("<h6 class='name'>Muhammad Devid</h6>", unsafe_allow_html=True)
+name.markdown("<p class='sub'>TETRIS III: Data Analytics</p>", unsafe_allow_html=True)
+name.markdown("<p class='date'>12 Juni 2023</p>", unsafe_allow_html=True)
 
 "---"
 
